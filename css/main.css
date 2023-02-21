@@ -43,7 +43,7 @@ nav a:hover{
 }
 
 .hero-image{
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("..images/images/running.jpeg");
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../images/images/running.jpeg");
     height: 30%;
     background-repeat: no-repeat;
     background-size: cover;
